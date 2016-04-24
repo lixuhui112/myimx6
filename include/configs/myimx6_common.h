@@ -423,5 +423,4 @@
 #define CONFIG_SYS_I2C_MXC
 #define CONFIG_SYS_I2C_SPEED		  100000
 
-
 #endif                         /* __MX6QSABRE_COMMON_CONFIG_H */
