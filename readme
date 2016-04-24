@@ -2,7 +2,7 @@
 mx6q/dl/s/spl myimx6 u-boot v2015.10 
  
 # Download repository
-    git clone https://github.com/lixuhui112/myimx6/uboot2015.04.git
+    git clone https://github.com/lixuhui112/myimx6.git
     cd uboot2015.04
  
 # Install cross compiler
